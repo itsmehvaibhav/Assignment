@@ -7,4 +7,4 @@ for (let i = 1; i <= t; i++) {
     }
     str += "\n";
 }
-console.log(str);bbbbbbbbbbbbbbbbb
+console.log(str);
