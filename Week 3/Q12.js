@@ -5,4 +5,4 @@ console.log(myColor.toString());
 console.log("2nd output");
 console.log(myColor.join());
 console.log(" 3rd output");
-console.log(myColor.join("+"));
+console.log(myColor.join("+"));/nnnnnnnnnnn
