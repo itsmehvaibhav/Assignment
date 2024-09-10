@@ -8,4 +8,4 @@ function o(input1) {
     return "Py" + input1;
 }
 
-console.log(o(input1));
+console.log(o(input1));kkkkkkkkkkkkkk
