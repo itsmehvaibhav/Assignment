@@ -7,4 +7,4 @@ if (input1 == input2) {
     console.log(input1 + " is larger than " + input2);
 } else {
     console.log(input1 + " is lesser than " + input2);
-}
+}/mmmmmmmmmmmmmmmmmm
